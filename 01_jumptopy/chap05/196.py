@@ -22,7 +22,7 @@ a = FourCal()
 
 a.setdata(1,3)
 a.setdata(1,3)
-a.setdata(5,3)
+a.setdata(5,3)0
 a.setdata(6,2)
 
 print(a.sum())
